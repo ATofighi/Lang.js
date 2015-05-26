@@ -1,0 +1,26 @@
+{
+  "name": "lang.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ATofighi/Lang.js",
+  "authors": [
+    "ATofighi <alirtofighim@gmail.com>"
+  ],
+  "description": "a powerful JavaScript localization",
+  "main": "src/lang.js",
+  "keywords": [
+    "JS",
+    "Localization",
+    "translator",
+    "Laravel",
+    "JavaScript",
+    "Localization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
