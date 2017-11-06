@@ -1,0 +1,27 @@
+{
+  "name": "lang.js",
+  "version": "1.0.0",
+  "description": "Powerful JavaScript localization.",
+  "main": "src/lang.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euantorano/Lang.js.git"
+  },
+  "keywords": [
+    "lang",
+    "translation",
+    "i18n"
+  ],
+  "author": "AliReza Tofighi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/euantorano/Lang.js/issues"
+  },
+  "homepage": "https://github.com/euantorano/Lang.js#readme"
+}
